@@ -1,2 +1,3 @@
 # apancollege-demo
-This is a Repository
+This is a first GitHub Repository.
+Anand Prajapati.
